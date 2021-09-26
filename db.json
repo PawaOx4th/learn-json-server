@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Pawanachai Seeruesang",
+      "age": 18
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
